@@ -1,0 +1,12 @@
+restaurant-website/
+│
+├── index.html
+├── about.html
+├── menu.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+└── images/
+    └── (এখানে আপনার ছবি রাখবেন)
